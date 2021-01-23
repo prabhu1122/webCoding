@@ -1,3 +1,3 @@
 # webCoding
 sketches with html and js
-To make a fireworks stimulater;
+To make a some stimulater;
